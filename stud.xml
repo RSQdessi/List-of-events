@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCityEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+  <CityEvent>
+    <Header>Открытие дет сада</Header>
+    <Description>На улице __ откроется новый детский сад вместимостью 20 человек.</Description>
+    <Image>hi</Image>
+    <Date>10-02-23</Date>
+    <Category>Для детей</Category>
+    <Price>2500</Price>
+  </CityEvent>
+</ArrayOfCityEvent>
